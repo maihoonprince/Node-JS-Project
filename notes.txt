@@ -1,0 +1,25 @@
+// REST API's using Node JS and Express JS :
+
+steps :
+1. npm init
+2. npm i Express
+3. https://mockaroo.com/ for 1000 data.
+4. Tool used: POSTMAN for POST, PATCH, DELETE .
+
+
+REST API - JSON
+
+GET/users - List all users
+
+GET/users/1 - Get the user with ID 1.
+GET/users/2 - Get the user with ID 2.
+
+POST/users - Create new user
+
+PATCH/user/1 - Edit the user with ID 1.
+
+DELETE/user/1 - Delete the User with ID 1.
+
+
+
+
